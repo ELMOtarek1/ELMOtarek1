@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ai fields
 - 📫 How to reach me by my email
 
-<!---
-ELMOtarek1/ELMOtarek1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2 years of experience in demanding environments, and is detail-oriented, organized, and customer-focused. Forward-thinking intern pursuing a software degree, capable of handling multiple projects, and skilled in design software (Adobe Photoshop,Illustrator, Figma, Canva, and Affinity Designer), portfolio creation, practical work experience
