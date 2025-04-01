@@ -11,8 +11,21 @@
 - 💞️ I’m looking to collaborate on ai fields
 - 📫 How to reach me by my email momen2004tarek@gmail.com
 
-# 💫 About Me:
-🔭 I’m currently working AI software development<br>👯 I’m looking to collaborate on CS Fields<br>🤝 I’m looking for help with move forward in technology<br>🌱 I’m currently learning AI engineering<br>
+---
+
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <p align="left">
+    I am a Data Analyst from Pakistan.<br><br>
+    - 🔭 I’m currently focused on developing impactful, data-driven dashboards to uncover actionable insights.<br>
+    - 📚 I’m enhancing my expertise in Python, SQL, Power BI, MS Excel, and Data Modeling to excel in data analysis and business intelligence roles.<br>
+    - ⚡ During my free time, I engage in coding, exploring the latest analytics trends, and building connections within the professional community.<br>
+    - 🤝 I prioritize effective communication, collaboration, and problem-solving to drive results and contribute to team success.
+    
+  </p>
+</div>
+
+---
 
 
 ## 🌐 Socials:
@@ -68,21 +81,7 @@
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umar885&label=Profile%20views&color=0e75b6&style=flat" alt="umar885" /> </p>
----
 
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <p align="left">
-    I am a Data Analyst from Pakistan.<br><br>
-    - 🔭 I’m currently focused on developing impactful, data-driven dashboards to uncover actionable insights.<br>
-    - 📚 I’m enhancing my expertise in Python, SQL, Power BI, MS Excel, and Data Modeling to excel in data analysis and business intelligence roles.<br>
-    - ⚡ During my free time, I engage in coding, exploring the latest analytics trends, and building connections within the professional community.<br>
-    - 🤝 I prioritize effective communication, collaboration, and problem-solving to drive results and contribute to team success.
-    
-  </p>
-</div>
-
----
 
 <div align="center">
   <h2>🛠 Languages and Tools</h2>
@@ -92,7 +91,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
     <img src="Microsoft_Office_Excel_(2019–present).svg.png" height="40" alt="Excel logo" />
-    <img src="powerbi logo 1.png" height="40" alt="Power BI logo" />
 
 
 
