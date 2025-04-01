@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>Hi  👋, I'm momen tarek</h1>
+  <p>Welcome to my GitHub profile! 🚀 I am passionate about AI software development, Business Intelligence, and creating impactful visualizations.</p>
+</div>
+
+---
+
 - 👋 Hi, I’m @ELMOtarek1
 - 👀 I’m interested in AI software development
 - 🌱 I’m currently learning computer science student
@@ -36,12 +43,6 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <h1>Hi  👋, I'm Umar Mehmood</h1>
-  <p>Welcome to my GitHub profile! 🚀 I am passionate about Data Analysis, Business Intelligence, and creating impactful visualizations.</p>
-</div>
-
----
 
 <div align="center">
   <!-- Replace with an animated coding GIF -->
