@@ -95,9 +95,4 @@
 
 ---
 
-<div align="center">
-  <h2>🔥 My GitHub Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=Umar885&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
 
