@@ -66,7 +66,7 @@
   <h2>🔗 Social Media Links</h2>
   <table>
       <tr>
-          <td><a href="https://www.linkedin.com/in/umar-mehmood-147224294/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
+          <td><a href="https://www.linkedin.com/in/momen-tarek2004/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a></td>
       </tr>
       <tr>
           <td><a href="https://github.com/ELMOtarek1"><img src="https://img.shields.io/badge/GitHub-Profile-green?style=for-the-badge&logo=github" alt="GitHub"/></a></td>
