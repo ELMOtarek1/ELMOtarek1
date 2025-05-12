@@ -20,7 +20,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p align="left">
-    I am a Data Analyst from Pakistan.<br><br>
+    I am a ML Engineer & Data Anlysis from Egypt.<br><br>
     - 🔭 I’m currently focused on developing impactful, data-driven dashboards to uncover actionable insights.<br>
     - 📚 I’m enhancing my expertise in Python, SQL, Power BI, MS Excel, and Data Modeling to excel in data analysis and business intelligence roles.<br>
     - ⚡ During my free time, I engage in coding, exploring the latest analytics trends, and building connections within the professional community.<br>
